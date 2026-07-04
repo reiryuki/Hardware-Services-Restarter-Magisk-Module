@@ -9,6 +9,7 @@
 
 v0.1
 - Initial release
+
   Compared to existing in latest Dolby modules:
   - Restarts android.hardware.vibrator@1.0-service-mediatek, vendor.ril-daemon-mtk, and android.hardware.usb@1.3-service.basic
   - Restarts android.hardware.thermal@2.0-service.mtk if BUGGY MODE detected
