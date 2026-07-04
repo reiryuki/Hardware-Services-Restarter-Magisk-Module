@@ -75,7 +75,8 @@ if [ "$SVC" ]; then
   ui_print " "
 fi
 
-
+# cleaning
+rm -rf $MODPATH/image
 
 
 
