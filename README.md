@@ -7,6 +7,9 @@
 
 ## Changelog
 
+v0.1-R
+- Fix script bug
+
 v0.1
 - Initial release
 
@@ -19,7 +22,7 @@ v0.1
 Magisk or Kitsune Mask or KernelSU or Apatch installed
 
 ## Installation Guide & Download Link
-- Install this module https://devuploads.com/kdi0cnhn21kf via Magisk app or Kitsune Mask app or KernelSU app or Apatch app or Recovery if Magisk or Kitsune Mask installed
+- Install this module via Magisk app or Kitsune Mask app or KernelSU app or Apatch app or Recovery if Magisk or Kitsune Mask installed
 - Reboot
 
 ## Optionals

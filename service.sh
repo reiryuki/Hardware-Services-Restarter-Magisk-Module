@@ -45,7 +45,7 @@ done
 
 # function
 restart_init_services() {
-for NAME in $NAMES; then
+for NAME in $NAMES; do
   if [ "`getprop init.svc.$NAME`" == stopped ]; then
     start $NAME
   fi
