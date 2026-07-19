@@ -7,6 +7,10 @@
 
 ## Changelog
 
+v0.2
+- Wait for 15 seconds instead before restarting processes
+- Does not restart android.hardware.usb@1.3-service.basic (Misperception)
+
 v0.1-R
 - Fix script bug
 
@@ -22,7 +26,7 @@ v0.1
 Magisk or Kitsune Mask or KernelSU or Apatch installed
 
 ## Installation Guide & Download Link
-- Install this module https://devuploads.com/0n3mltka23vw via Magisk app or Kitsune Mask app or KernelSU app or Apatch app or Recovery if Magisk or Kitsune Mask installed
+- Install this module https://github.com/reiryuki/Hardware-Services-Restarter-Magisk-Module via Magisk app or Kitsune Mask app or KernelSU app or Apatch app or Recovery if Magisk or Kitsune Mask installed
 - Reboot
 
 ## Optionals

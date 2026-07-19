@@ -6,7 +6,7 @@ exec 2>$LOGFILE
 set -x
 
 # wait
-sleep 10
+sleep 15
 
 # restart
 killall vendor.qti.hardware.vibrator.service\
@@ -17,7 +17,6 @@ killall vendor.qti.hardware.vibrator.service\
  vendor.mediatek.hardware.mtkpower@1.0-service\
  android.hardware.usb@1.0-service\
  android.hardware.usb@1.0-service.basic\
- android.hardware.usb@1.3-service.basic\
  android.hardware.light-service.mt6768\
  android.hardware.lights-service.xiaomi_mithorium\
  vendor.samsung.hardware.light-service\

@@ -1,7 +1,7 @@
 id=HardwareServicesRestarter
 name=Hardware Services Restarter
-version=v0.1-R
-versionCode=1
+version=v0.2
+versionCode=2
 author=Rei Ryuki the Fixer
 description=Fixes some hardware/vendor services issues like vibrator, camera, charging/USB, SIM card/RIL, display, brightness, WiFi, and thermal on some devices caused by Dolby modules etc.
 
