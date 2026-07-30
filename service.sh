@@ -19,6 +19,7 @@ killall vendor.qti.hardware.vibrator.service\
  android.hardware.usb@1.0-service.basic\
  android.hardware.light-service.mt6768\
  android.hardware.lights-service.xiaomi_mithorium\
+ android.hardware.lights-service.xiaomi_msm8937\
  vendor.samsung.hardware.light-service\
  vendor.qti.hardware.lights.service\
  android.hardware.lights-service.qti\
