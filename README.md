@@ -7,6 +7,9 @@
 
 ## Changelog
 
+v0.4
+- Does not wait boot completed to restart init services
+
 v0.3
 - Restarts android.hardware.lights-service.xiaomi_msm8937
 
@@ -24,7 +27,7 @@ v0.1
 Magisk or Kitsune Mask or KernelSU or Apatch installed
 
 ## Installation Guide & Download Link
-- Install this module https://bicolink.com/0pUKQTI4 via Magisk app or Kitsune Mask app or KernelSU app or Apatch app or Recovery if Magisk or Kitsune Mask installed
+- Install this module https://github.com/reiryuki/Hardware-Services-Restarter-Magisk-Module via Magisk app or Kitsune Mask app or KernelSU app or Apatch app or Recovery if Magisk or Kitsune Mask installed
 - Reboot
 
 ## Download Tutorial

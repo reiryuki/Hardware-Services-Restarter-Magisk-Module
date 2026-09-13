@@ -38,11 +38,6 @@ fi
 #x android.hardware.sensors@2.0-service.multihal-mediatek
 #akillall PROC
 
-# wait
-until [ "`getprop sys.boot_completed`" == 1 ]; do
-  sleep 1
-done
-
 # function
 restart_init_services() {
 for NAME in $NAMES; do
@@ -57,8 +52,6 @@ NAMES=vendor.ril-daemon-mtk
 restart_init_services
 #iNAMES="SVC"
 #irestart_init_services
-
-
 
 
 
